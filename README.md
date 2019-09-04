@@ -1,6 +1,8 @@
 # TFT-Crawler
 Blitz.gg Crawler for TFT games
 
+*** Check https://github.com/jyji/TFT-Crawler. Its improwed and better bversion of this code
+
 This crawler first fetch top 1000 players from na and euw then search each one in blitz.gg for it's recent games. 
 
 *Run programs in numbers order
